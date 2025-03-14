@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hey, I'm Trev Chumba!
 
-<!--
-**Trev-Chumba/Trev-Chumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Frontend & Backend Developer passionate about crafting sleek, high-performance applications.
+🔹 Always exploring new technologies to enhance user experience and efficiency.
+## 🚀 Tech Stack:
 
-Here are some ideas to get you started:
+    Frontend: React (Vite, Next.js, Gatsby, CRA), Angular (Learning), Flutter (Learning)
+    Backend: Java (Spring Boot)
+    Mobile: Android (Jetpack Compose)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project:
+
+Check out my a sample landing page: [Huddle Landing Page](https://trev-chumba.github.io/Huddle-landing/)
+
+💡 Always open to collaborations and exciting projects! 🚀
