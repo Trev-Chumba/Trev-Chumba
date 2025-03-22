@@ -1,7 +1,10 @@
 ## 👋 Hey, I'm Trev Chumba!
 
 🔹 Frontend & Backend Developer passionate about crafting sleek, high-performance applications.
+
 🔹 Always exploring new technologies to enhance user experience and efficiency.
+
+🔹 Currently working on various personal projects.
 ## 🚀 Tech Stack:
 
     Frontend: React (Vite, Next.js, Gatsby, CRA), Angular (Learning), 
