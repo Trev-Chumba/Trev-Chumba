@@ -14,6 +14,7 @@
 
 ## 📌 Featured Project:
 Check out my portfolio page: [ETR sample](https://trev-chumba-etr.vercel.app/)
+
 Check out my a sample landing page: [Huddle Landing Page](https://trev-chumba.github.io/Huddle-landing/)
 
 💡 Always open to collaborations and exciting projects! 🚀
